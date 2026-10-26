@@ -19,7 +19,7 @@ La lista de notebooks finales que debo revisar, en el orden de lectura, diferenc
 Lectura del primer notebook, resguardado en la rama feature/analisis-datos, notebook nb01_estructura_perfilado.ipynb.
 El segundo notebook, se encuentra dentro en la rama exploracion-visualizaciones, notebook nb02_preguntas_visualizaciones.ipynb
 
-
+**Hola Maestra Elena. Al momento de actualizar las copias locales se borraron los pull request de ambas ramas. No sabemos por qué paso**
 
 
 # Título del proyecto
